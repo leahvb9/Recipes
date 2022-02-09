@@ -1,4 +1,7 @@
 # Vegan French Toast 
+![Vegan French Toast](images.md/frenchtoast.jpeg)
+
+This recipe was adapted from this [McCormack Recipe](https://www.mccormick.com/recipes/breakfast-brunch/quick-and-easy-french-toast). Photo courtsey of [Add a Pinch](https://addapinch.com/perfect-french-toast-recipe/).
 
 ## Tools:
 - Electric fry pan (found in the cabinet next to the fridge) 

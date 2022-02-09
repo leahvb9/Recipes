@@ -1,5 +1,7 @@
 # Vegan Egg Scramble
-This recipe was adapted from this [McCormack Recipe](https://www.mccormick.com/recipes/breakfast-brunch/quick-and-easy-french-toast). Photo courtsey of [Add a Pinch](https://addapinch.com/perfect-french-toast-recipe/).
+![Vegan Egg Scramble](images.md/scrambledeggs.jpeg)
+
+Photo courtsey of [New York Times](https://cooking.nytimes.com/recipes/1016534-scrambled-peppers-and-eggs).
 ## Tools: 
 - Skillet (found in the drawer under the oven) 
 - Spatula (found in the drawer on the left side of the sink) 
